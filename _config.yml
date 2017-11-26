@@ -1,10 +1,10 @@
 # Site settings
-title: Syx Blog
-SEOTitle: 秋风的博客
+title: 踏莎行
+SEOTitle: 踏莎行
 header-img: img/post-syx-desk-6.jpg
 email: 779973772@qq.com
 description: "Every failure is leading towards success."
-keyword: " 秋风的博客, shanyx, syx"
+keyword: " 踏莎行, shanyx, syx"
 url: "http://shanyux.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/shanyux/shanyux.github.io.git" # you code repository
