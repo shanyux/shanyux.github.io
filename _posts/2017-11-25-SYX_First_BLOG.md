@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      随便聊聊
+title:      我的第一个博客
 subtitle:   咱也有博客了 
 date:       2017-11-25
 author:     秋枫
@@ -9,7 +9,6 @@ catalog: true
 tags:
     - 生活
     - 博客
-    - 漫谈
 ---
 
 # 随便谈谈
