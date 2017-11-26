@@ -1,5 +1,5 @@
 # Site settings
-title: 踏莎行
+title: 秋枫
 SEOTitle: 踏莎行
 header-img: img/post-syx-desk-6.jpg
 email: 779973772@qq.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/shanyux/shanyux.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "God helps those who help themselves!"
 sidebar-avatar: /img/syx_headimg_3.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
