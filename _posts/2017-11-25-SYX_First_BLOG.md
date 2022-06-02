@@ -3,7 +3,7 @@ layout:     post
 title:      我的第一个博客
 subtitle:   咱也有博客了 
 date:       2017-11-25
-author:     SYX
+author:     KevinShan
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
