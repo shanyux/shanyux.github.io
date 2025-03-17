@@ -101,3 +101,13 @@ friends: [
         href: "https://apple.com"
     }
 ]
+
+
+###
+gittalk:
+  owner: shanyux
+  repo: blog-comments
+  client_id: Ov23liT4yJWtlbr53gIK
+  client_secret: 1c69e51a7abfe696dbf471138ec37e8dfd760031
+  admin_user: shanyux
+  admin_email: 779973772@qq.com
