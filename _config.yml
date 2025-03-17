@@ -108,6 +108,6 @@ gitalk:
   enable: true
   owner: shanyux
   repo: blog-comments
-  clientID: Ov23liT4yJWtlbr53gIK
-  clientSecret: 1c69e51a7abfe696dbf471138ec37e8dfd760031
+  clientID: Ov23liL1Q1dBvRn2kxzM
+  clientSecret: 5afc6804f531199fcf60479dc1bc295fefaaa259
   admin: shanyux
