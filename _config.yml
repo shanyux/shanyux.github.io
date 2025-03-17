@@ -105,6 +105,7 @@ friends: [
 
 ###
 gitalk:
+  enable: true
   owner: shanyux
   repo: blog-comments
   client_id: Ov23liT4yJWtlbr53gIK
