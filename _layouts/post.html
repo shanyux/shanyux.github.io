@@ -110,7 +110,8 @@ layout: default
                         owner: '{{site.gitalk.owner}}',
                         admin: ['{{site.gitalk.admin}}'],
                         // distractionFreeMode: {{ site.gitalk.distractionFreeMode }},
-                        id: location.pathname,
+                        id: '{{ page.url }}',
+                        labels: ['Gitalk'],
                     });
                     gitalk.render('gitalk-container');
                 </script>
