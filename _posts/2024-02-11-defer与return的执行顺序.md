@@ -29,21 +29,21 @@ defer、return、返回值三者的执行是：return最先执行，先将结果
 package main
 import "fmt"
 func main() {
-    t := test()
-    fmt.Println(t)
+  t := test()
+  fmt.Println(t)
 }
 
 func test() int { //无名返回
-    i := 9
-    defer func() {
-        i++
-        fmt.Println("defer1=", i)
-    }()
-    defer func() {
-        i++
-        fmt.Println("defer2=", i)
-    }()
-    return i
+  i := 9
+  defer func() {
+    i++
+    fmt.Println("defer1=", i)
+  }()
+  defer func() {
+    i++
+    fmt.Println("defer2=", i)
+  }()
+  return i
 }
 ```
 
@@ -82,20 +82,20 @@ return s
 package main
 import "fmt"
 func main() {
-    t := test()
-    fmt.Println(t)
+  t := test()
+  fmt.Println(t)
 }
 func test() (i int) { //有名返回i
-    i = 9
-    defer func() {
-        i++
-        fmt.Println("defer1=", i)
-    }()
-    defer func() {
-       i++
-        fmt.Println("defer2=", i)
-    }()
-    return i
+  i = 9
+  defer func() {
+    i++
+    fmt.Println("defer1=", i)
+  }()
+  defer func() {
+    i++
+    fmt.Println("defer2=", i)
+  }()
+  return i
 }
 ```
 
